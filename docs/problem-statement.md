@@ -1,0 +1,3 @@
+# Problem Statement
+
+Organizations that rely on IT helpdesk services including employees, helpdesk agents, and IT support teams are heavily affected by delays and inefficiencies in ticket management. Many existing systems still require support staff to manually read, classify, prioritize, and route incoming tickets, leading to frequent ticket misrouting and repeated reassignments. Because slow or incorrect handling disrupts normal business operations and increases operational costs, there is an urgent need for an intelligent helpdesk ticketing system that utilizes Large Language Models (LLMs) to automate ticket analysis and routing.
